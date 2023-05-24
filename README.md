@@ -1,16 +1,4 @@
-<!-- ### Hi there 👋 My full name is Dinesh Anbazhagan, you can call me Dinesh.
----
-- 🌍 Located in India
-- ⚛️ My current work that is live https://www.motherscarediabetescentre.com/
-- 🌱 Proficient in developing web applications using Django framework
-- 🌱 Proficient in Responsive Web Design using Html, CSS and JavaScript
-- 🌱 Proficient in Python to create scripts to automate tasks
-- 🌱 Currently learning Flutter
-- 👯 Open to collaborate on projects
-- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com) -->
-
-
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!👋</b><br><br>
@@ -53,7 +41,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzmidinesh&theme=transparent" />
   </a>
   <a href="https://github.com/itzmidinesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmidinesh&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmidinesh&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
@@ -63,3 +51,15 @@
     <img src="https://komarev.com/ghpvc/?username=itzmidinesh&color=blue&style=flat)" />
   </a>
 </p>
+
+
+<!-- ### Hi there 👋 My full name is Dinesh Anbazhagan, you can call me Dinesh.
+---
+- 🌍 Located in India
+- ⚛️ My current work that is live https://www.motherscarediabetescentre.com/
+- 🌱 Proficient in developing web applications using Django framework
+- 🌱 Proficient in Responsive Web Design using Html, CSS and JavaScript
+- 🌱 Proficient in Python to create scripts to automate tasks
+- 🌱 Currently learning Flutter
+- 👯 Open to collaborate on projects
+- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com) -->
