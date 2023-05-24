@@ -1,4 +1,4 @@
-### Hi there 👋 My full name is Dinesh Anbazhagan, you can call me Dinesh.
+<!-- ### Hi there 👋 My full name is Dinesh Anbazhagan, you can call me Dinesh.
 ---
 - 🌍 Located in India
 - ⚛️ My current work that is live https://www.motherscarediabetescentre.com/
@@ -7,16 +7,18 @@
 - 🌱 Proficient in Python to create scripts to automate tasks
 - 🌱 Currently learning Flutter
 - 👯 Open to collaborate on projects
-- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com)
+- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com) -->
 
 
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page!👋</b><br><br>
     <i>
-        I'm Vladimir.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        I'm Dinesh.<br>
+        Located in India.<br>
+        My work - https://www.motherscarediabetescentre.com/ <br>
+        Currently learning Flutter<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/itzmidinesh">
