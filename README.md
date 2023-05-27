@@ -9,7 +9,7 @@
         Currently learning Flutter<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/itzmidinesh">
+    <a href="www.linkedin.com/in/dineshanbazhagan">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
