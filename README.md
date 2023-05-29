@@ -2,7 +2,6 @@
 
 * Currently residing in Planet 🌏
 * I love learning anything related to tech and developing web applications.
-* My work - https://www.motherscarediabetescentre.com/ <br>
 * Currently learning Flutter<br>
 * Open to collaborating on interesting and innovative projects.<br>
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
@@ -63,4 +62,6 @@
 - 🌱 Proficient in Python to create scripts to automate tasks
 - 🌱 Currently learning Flutter
 - 👯 Open to collaborate on projects
-- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com) -->
+- 📫 You can reach me at [itzmidinesh@gmail.com](mailto:itzmidinesh@gmail.com)
+- My work - https://www.motherscarediabetescentre.com/ <br>
+-->
