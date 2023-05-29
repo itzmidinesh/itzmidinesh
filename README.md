@@ -1,18 +1,13 @@
-<h1 align="center">Hello! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Dinesh.</h1>
 
-<p align="center">
-    <b>Welcome to my page!👋</b><br><br>
-    <i>
-        I'm Dinesh.<br>
-        Located in India.<br>
-        My work - https://www.motherscarediabetescentre.com/ <br>
-        Currently learning Flutter<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/dineshanbazhagan">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-    </a>
-</p>
+* Currently residing in Planet 🌏
+* I love learning anything related to tech and developing web applications.
+* My work - https://www.motherscarediabetescentre.com/ <br>
+* Currently learning Flutter<br>
+* Open to collaborating on interesting and innovative projects.<br>
+<a href="https://www.linkedin.com/in/dineshanbazhagan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
@@ -20,10 +15,16 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/itzmidinesh)
 
 ### Technologies & Frameworks
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/itzmidinesh)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/itzmidinesh)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)<br/>
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itzmidinesh)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/itzmidinesh)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/itzmidinesh)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/itzmidinesh)
+
+### Tools
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/itzmidinesh)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/itzmidinesh)<br/>
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/itzmidinesh)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/itzmidinesh)
