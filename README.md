@@ -4,8 +4,13 @@
 * I love learning anything related to tech and developing web applications.
 * Currently learning Flutter<br>
 * Open to collaborating on interesting and innovative projects.<br>
+* Just started freelancing on [Fiverr](https://www.fiverr.com/itzmidinesh).
+  
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.fiverr.com/itzmidinesh">
+    <img src="https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr" alt="Fiverr" />
 </a>
 
 ### Languages
