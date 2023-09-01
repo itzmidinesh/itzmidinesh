@@ -2,7 +2,7 @@
 
 * Currently residing in Planet 🌏
 * I love learning anything related to tech and developing web applications.
-* Currently learning Flutter<br>
+* Currently breaking stuff in React
 * Open to collaborating on interesting and innovative projects.<br>
 * Just started freelancing on [Fiverr](https://www.fiverr.com/itzmidinesh).
   
