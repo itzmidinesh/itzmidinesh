@@ -4,13 +4,18 @@
 * I love learning anything related to tech and developing web applications.
 * Currently breaking stuff in React
 * Open to collaborating on interesting and innovative projects.<br>
-* Just started freelancing on [Fiverr](https://www.fiverr.com/itzmidinesh).
   
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
+<a href="https://www.freecodecamp.org/itzmidinesh">
+    <img src="https://img.shields.io/badge/FreeCodecamp-black?style=flat-square&logo=freecodecamp" alt="FreeCodeCamp" />
+</a>
 <a href="https://www.fiverr.com/itzmidinesh">
     <img src="https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr" alt="Fiverr" />
+</a>
+<a href="https://www.fiverr.com/itzmidinesh">
+    <img src="https://img.shields.io/badge/Upwork-black?style=flat-square&logo=upwork" alt="UpWork" />
 </a>
 
 ### Languages
