@@ -14,7 +14,7 @@
 <a href="https://www.fiverr.com/itzmidinesh">
     <img src="https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr" alt="Fiverr" />
 </a>
-<a href="https://www.fiverr.com/itzmidinesh">
+<a href="https://upwork.com/freelancers/dineshanbazhagan2">
     <img src="https://img.shields.io/badge/Upwork-black?style=flat-square&logo=upwork" alt="UpWork" />
 </a>
 
