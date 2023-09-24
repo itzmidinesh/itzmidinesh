@@ -21,14 +21,15 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/itzmidinesh)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/itzmidinesh)
-
-### Technologies & Frameworks
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/itzmidinesh)<br/>
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/itzmidinesh)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/itzmidinesh)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)<br/>
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itzmidinesh)
+
+### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/itzmidinesh)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itzmidinesh)
+
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/itzmidinesh)
