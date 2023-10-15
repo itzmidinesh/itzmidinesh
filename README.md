@@ -41,7 +41,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/itzmidinesh)
 
 ### Holopin Board
-[![An image of @itzmidinesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzmidinesh)](https://holopin.io/@itzmidinesh)
+[![An image of @itzmidinesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=itzmidinesh)](https://holopin.io/itzmidinesh)
 
 <details>
 <p align="center">
