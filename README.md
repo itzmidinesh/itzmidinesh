@@ -2,7 +2,7 @@
 
 * Currently residing in Planet 🌏
 * I love learning anything related to tech and developing web applications.
-* Currently breaking stuff in React
+* Currently learning Elixir and Svelte.
 * Open to collaborating on interesting and innovative projects.<br>
   
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
