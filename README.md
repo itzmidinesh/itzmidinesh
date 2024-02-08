@@ -2,7 +2,7 @@
 
 * Currently residing in Planet 🌏
 * I love learning anything related to tech and developing web applications.
-* Currently learning Elixir and Svelte.
+* Currently learning Elixir and Phoenix.
 * Open to collaborating on interesting and innovative projects.<br>
   
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
@@ -20,15 +20,18 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/itzmidinesh)
+[![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/itzmidinesh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/itzmidinesh)<br/>
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/itzmidinesh)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/itzmidinesh)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/itzmidinesh)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/itzmidinesh)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itzmidinesh)
+[![Phoenix Framework](https://img.shields.io/badge/phoenix%20framework-black?style=for-the-badge&logo=phoenixframework)](https://github.com/itzmidinesh)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)
+
 
 
 ### Tools
