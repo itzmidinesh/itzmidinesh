@@ -1,9 +1,9 @@
-<h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Dinesh.</h1>
+<h2 align="center">Hey there, I'm Dinesh, a Full Stack Developer transitioning from BPO to software development.</h2>
 
-* Currently residing in Planet 🌏
-* I love learning anything related to tech and developing web applications.
-* Currently learning Elixir and Phoenix.
-* Open to collaborating on interesting and innovative projects.<br>
+* Passionate about web development.
+* Mastering Elixir and Phoenix for robust and scalable applications.
+* Eager to learn and explore new technologies.
+* Open to collaborating on boundary-pushing projects.
   
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
