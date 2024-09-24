@@ -1,9 +1,9 @@
-<h2 align="center">Hey there, I'm Dinesh, a Full Stack Developer transitioning from BPO to software development.</h2>
+<h2 align="center">👋 Hey, I'm Dinesh!<br> ⚡ Full Stack Developer, Building with Elixir ⚡.</h2>
 
-* Passionate about web development.
-* Mastering Elixir and Phoenix for robust and scalable applications.
-* Eager to learn and explore new technologies.
-* Open to collaborating on boundary-pushing projects.
+* Passionate about web development, transitioning from BPO to software development.
+* Focused on mastering Elixir and Phoenix to build scalable, robust applications.
+* Eager to continuously learn and explore new technologies.
+* Excited to collaborate on innovative, boundary-pushing projects.
   
 <a href="https://www.linkedin.com/in/dineshanbazhagan">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -19,24 +19,22 @@
 </a>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
 [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/itzmidinesh)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/itzmidinesh)<br/>
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/itzmidinesh)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/itzmidinesh)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/itzmidinesh)
 
 ### Technologies & Frameworks
+[![Phoenix Framework](https://img.shields.io/badge/phoenix%20framework-black?style=for-the-badge&logo=phoenixframework)](https://github.com/itzmidinesh)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/itzmidinesh)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itzmidinesh)
-[![Phoenix Framework](https://img.shields.io/badge/phoenix%20framework-black?style=for-the-badge&logo=phoenixframework)](https://github.com/itzmidinesh)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/itzmidinesh)
-
 
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/itzmidinesh)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/itzmidinesh)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/itzmidinesh)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/itzmidinesh)
 
 ### OS
