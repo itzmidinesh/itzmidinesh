@@ -5,18 +5,10 @@
 * Eager to continuously learn and explore new technologies.
 * Excited to collaborate on innovative, boundary-pushing projects.
   
-<a href="https://www.linkedin.com/in/dineshanbazhagan">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.freecodecamp.org/itzmidinesh">
-    <img src="https://img.shields.io/badge/FreeCodecamp-black?style=flat-square&logo=freecodecamp" alt="FreeCodeCamp" />
-</a>
-<a href="https://www.fiverr.com/itzmidinesh">
-    <img src="https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr" alt="Fiverr" />
-</a>
-<a href="https://upwork.com/freelancers/dineshanbazhagan2">
-    <img src="https://img.shields.io/badge/Upwork-black?style=flat-square&logo=upwork" alt="UpWork" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshanbazhagan)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodecamp-black?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/itzmidinesh)
+[![Fiverr](https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr")](https://www.fiverr.com/itzmidinesh)
+[![UpWork](https://img.shields.io/badge/Upwork-black?style=flat-square&logo=upwork")](https://upwork.com/freelancers/dineshanbazhagan2)
 
 ### Languages
 [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/itzmidinesh)
