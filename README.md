@@ -5,11 +5,6 @@
 * Eager to continuously learn and explore new technologies.
 * Excited to collaborate on innovative, boundary-pushing projects.
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshanbazhagan)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodecamp-black?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/itzmidinesh)
-[![Fiverr](https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr")](https://www.fiverr.com/itzmidinesh)
-[![UpWork](https://img.shields.io/badge/Upwork-black?style=flat-square&logo=upwork")](https://upwork.com/freelancers/dineshanbazhagan2)
-
 ### Languages
 [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/itzmidinesh)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itzmidinesh)
