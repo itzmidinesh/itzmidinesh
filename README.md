@@ -1,9 +1,20 @@
 <h2 align="center">👋 Hey, I'm Dinesh!<br> ⚡ Full Stack Developer, Building with Elixir ⚡.</h2>
 
-* Passionate about web development, transitioning from BPO to software development.
-* Focused on mastering Elixir and Phoenix to build scalable, robust applications.
-* Eager to continuously learn and explore new technologies.
-* Excited to collaborate on innovative, boundary-pushing projects.
+<div>🚀 Passionate about web development, transitioning from BPO to software development.</div>
+<div>💻 Focused on mastering Elixir and Phoenix to build scalable, robust applications.</div>
+<div>📚 Eager to continuously learn and explore new technologies.</div>
+<div>🤝 Excited to collaborate on innovative, boundary-pushing projects.</div>
+
+---
+
+<div>
+  💬 Want to chat or collaborate? Feel free to reach out on Discord!
+  <br>📬 You can find me at:
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-1/1084729753212309624.png" alt="Discord Widget" style="display: block; margin: 0 auto;">
+</div>
+
+---
   
 ### Languages
 [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/itzmidinesh)
