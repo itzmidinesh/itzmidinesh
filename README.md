@@ -11,7 +11,9 @@
   💬 Want to chat or collaborate? Feel free to reach out on Discord!
   <br>📬 You can find me at:
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-1/1084729753212309624.png" alt="Discord Widget" style="display: block; margin: 0 auto;">
+  <a href="https://discordapp.com/users/1084729753212309624" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-1/1084729753212309624.png" alt="Discord Widget" style="display: block; margin: 0 auto;">
+  </a>
 </div>
 
 ---
