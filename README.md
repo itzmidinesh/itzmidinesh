@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzmidinesh&theme=transparent" />
   </a>
   <a href="https://github.com/itzmidinesh">
-    <img src="https://streak-stats.demolab.com?user=itzmidinesh&theme=transparent&hide_border=true&card_width=338" />
+    <img src="https://github-readme-streak-stats-lovat-gamma.vercel.app?user=itzmidinesh&theme=transparent&hide_border=true&card_width=338" />
   </a>
   <a href="https://github.com/itzmidinesh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzmidinesh&theme=transparent" />
