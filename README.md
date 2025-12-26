@@ -57,7 +57,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzmidinesh&theme=transparent" />
   </a>
   <a href="https://github.com/itzmidinesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmidinesh&langs_count=10&theme=github_dark&hide_border=true&layout=compact&card_width=699" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzmidinesh&layout=compact&langs_count=10&theme=github_dark&hide_border=true&card_width=699" />
   </a>
 </p>
 </details>
